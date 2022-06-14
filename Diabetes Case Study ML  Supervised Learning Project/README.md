@@ -1,4 +1,4 @@
-######Diabetes Case Study Project
+##Diabetes Case Study Project
 
 Multiple supervised machine learning techniques for both classification and regression used to predict whether a patient has diabetes or not.
 
@@ -17,6 +17,6 @@ Step 6: Determining Feature Importance
 Step 7: Conclusion
 
 
-##Sources
+##Reference
 
 Introduction to Machine Learning with Tensorflow Nanodegree - Udacity
